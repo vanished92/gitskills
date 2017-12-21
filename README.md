@@ -6,3 +6,4 @@ nothing is changed
 
 merge test
 
+git stash 
