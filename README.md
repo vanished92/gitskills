@@ -7,3 +7,5 @@ nothing is changed
 merge test
 
 git stash 
+
+git add /usr/bin/env
